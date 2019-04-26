@@ -1,6 +1,4 @@
 Initial commit
-<<<<<<< HEAD
-=======
-Add 3
 Add 2
->>>>>>> 824d1cd... Example 4: 2
+Add 3
+
